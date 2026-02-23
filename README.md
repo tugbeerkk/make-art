@@ -1,1 +1,1 @@
-# apiden-promtla-g-r-nt-olusturma
+apiden promtla görüntü oluşturma
